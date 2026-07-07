@@ -104,3 +104,8 @@ logs/
 *.synctex.gz
 *.toc
 *.out
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
