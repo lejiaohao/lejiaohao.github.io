@@ -1,8 +1,8 @@
 # Lejiaohao Homepage
 
-Static homepage for the Lejiaohao Project.
+Homepage for the Lejiaohao Project.
 
-This site is designed for GitHub Pages and Cloudflare Pages. It uses plain HTML, CSS, and a small JavaScript file. No build step is required.
+[Work in progress. More content coming soon. Stay tuned.]
 
 ## Structure
 
@@ -26,23 +26,3 @@ assets/
   js/site.js
   images/background_dark_webpage_multi_galaxies.png
 ```
-
-## Background Image
-
-The current background image is:
-
-```text
-assets/images/background_dark_webpage_multi_galaxies.png
-```
-
-Replace it with another image using the same path, or update the `--hero-image` variable in `assets/css/site.css`.
-
-## Deployment
-
-For GitHub Pages, place these files in the root of the `lejiaohao.github.io` repository and enable Pages in repository settings.
-
-For Cloudflare Pages, create a static project from this repository. No build command is required.
-
-## Language
-
-The site is English-first for now, with Chinese project labels included where useful. A language switch placeholder is included in the navigation.
