@@ -1,6 +1,6 @@
 # Lejiaohao Homepage
 
-Homepage for the Lejiaohao Project.
+Homepage demo for the Lejiaohao Project.
 
 [Work in progress. More content coming soon. Stay tuned.]
 
